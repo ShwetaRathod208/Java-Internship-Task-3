@@ -3,7 +3,9 @@
 LIBRARY MANAGEMENT SYSTEM – PROJECT 
 DOCUMENTATION 
 
-1. PROJECT OVERVIEW 
+1. PROJECT OVERVIEW
+
+
       The Library Management System is a complete Java console application for managing library 
       operations. It allows librarians to add books and register members, supports book 
       borrowing/returning with availability tracking, provides search functionality by 
@@ -18,7 +20,9 @@ DOCUMENTATION
       Offer intuitive menu-driven interface for all operations
 
    
-2. PROJECT OBJECTIVES 
+2. PROJECT OBJECTIVES
+
+   
       The main goals of this project are: 
       1. To understand and implement Object-Oriented Programming (OOP) concepts in Java 
       2. To design classes using encapsulation with private data members and public methods 
@@ -30,7 +34,9 @@ DOCUMENTATION
       8. To simulate a real-world library system using Java
   
          
-3. SETUP & INSTALLATION INSTRUCTIONS 
+3. SETUP & INSTALLATION INSTRUCTIONS
+
+   
       1. Install Java Development Kit (JDK) on the system 
       2. Download JDK from the official Oracle or OpenJDK website 
       3. Verify Java installation by running the command java -version in the command prompt 
